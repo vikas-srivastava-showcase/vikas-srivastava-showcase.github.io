@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: "Compartment Models"
+date: 2019-12-23
+---
 
 ```python
 import numpy as np
