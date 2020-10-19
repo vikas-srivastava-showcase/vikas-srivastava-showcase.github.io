@@ -326,7 +326,7 @@ for w in w_values:
 ```
 
 
-![png](./pictures/output_4_0.png)
+![png](/pictures/output_4_0.png)
 
 
 
@@ -338,7 +338,7 @@ for w in w_values:
 
 
 
-![png]/pictures/(output_4_3.png)
+![png](/pictures/output_4_3.png)
 
 
 
