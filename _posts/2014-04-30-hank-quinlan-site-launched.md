@@ -103,15 +103,15 @@ for q in q_values:
 ```
 
 
-![png](./pictures/output_2_0.png)
+![png](/pictures/output_2_0.png)
 
 
 
-![png](./pictures/output_2_1.png)
+![png](/pictures/output_2_1.png)
 
 
 
-![png](./pictures/output_2_2.png)
+![png](/pictures/output_2_2.png)
 
 
 
@@ -210,23 +210,23 @@ for k in k_values:
 ```
 
 
-![png](./pictures/output_3_0.png)
+![png](/pictures/output_3_0.png)
 
 
 
-![png](./pictures/output_3_1.png)
+![png](/pictures/output_3_1.png)
 
 
 
-![png](./pictures/output_3_2.png)
+![png](/pictures/output_3_2.png)
 
 
 
-![png](./pictures/output_3_3.png)
+![png](/pictures/output_3_3.png)
 
 
 
-![png](./pictures/output_3_4.png)
+![png](/pictures/output_3_4.png)
 
 
 
@@ -329,15 +329,15 @@ for w in w_values:
 
 
 
-![png](./pictures/output_4_1.png)
+![png](/pictures/output_4_1.png)
 
 
 
-![png](./pictures/output_4_2.png)
+![png](/pictures/output_4_2.png)
 
 
 
-![png]./pictures/(output_4_3.png)
+![png]/pictures/(output_4_3.png)
 
 
 
@@ -446,17 +446,17 @@ plt.show()
 ```
 
 
-![png](./pictures/output_5_0.png)
+![png](/pictures/output_5_0.png)
 
 
 
-![png](./pictures/output_5_1.png)
+![png](/pictures/output_5_1.png)
 
 
 
-![png](./pictures/output_5_2.png)
+![png](/pictures/output_5_2.png)
 
 
 
-![png](./pictures/output_5_3.png)
+![png](/pictures/output_5_3.png)
 
