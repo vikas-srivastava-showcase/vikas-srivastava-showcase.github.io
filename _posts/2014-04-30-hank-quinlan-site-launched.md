@@ -115,7 +115,7 @@ for q in q_values:
 
 
 
-![png](./pictures/output_2_3.png)
+![png](/pictures/output_2_3.png)
 
 
 
