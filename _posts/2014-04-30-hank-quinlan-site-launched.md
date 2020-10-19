@@ -324,7 +324,7 @@ for w in w_values:
   plt.title('SARS Model with 1/(v+m+w) value = ' + str(round(1/(v+w+m),2)) + ' days')
   plt.show()
 ```
-
+   
 
 ![png](/pictures/output_4_0.png)
 
